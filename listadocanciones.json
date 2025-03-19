@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "nombre": "alone",
+            "url": "https://raw.githubusercontent.com/jmartinifp/listadocanciones/refs/heads/main/alone.mp3"
+        },
+        {
+            "nombre": "gardens",
+            "url": "https://raw.githubusercontent.com/jmartinifp/listadocanciones/refs/heads/main/gardens.mp3"
+        },
+        {
+            "nombre": "spinning",
+            "url": "https://raw.githubusercontent.com/jmartinifp/listadocanciones/refs/heads/main/spinning.mp3"
+        }
+    ]
+}
